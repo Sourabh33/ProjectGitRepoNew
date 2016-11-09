@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.7.0_80
+<<<<<<< HEAD
+Built-By: sourabhsh
+=======
+Built-By: dipaksh
+>>>>>>> 27388fc3498fb591a4c4869bfb4bd72c692a935b
+Created-By: Maven Integration for Eclipse
+
